@@ -25,5 +25,7 @@ npx hardhat run scripts/ERC20Swapper.js --network sepolia
 ```
 
 The proxy and implementation smart contracts are all deployed and verified on the Sepolia testnet.
+
 The proxy smart contract is deployed on Sepolia at: [0x1f0D7180bdDe991d20fA8F2d208BB027d8911124](https://sepolia.etherscan.io/address/0x1f0D7180bdDe991d20fA8F2d208BB027d8911124)
+
 The implementation smart contract is deployed on Sepolia at: [0x28D4a9Fc706Eb095563adC8EcCF46FE334370F6B](https://sepolia.etherscan.io/address/0x28D4a9Fc706Eb095563adC8EcCF46FE334370F6B)
