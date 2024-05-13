@@ -29,3 +29,5 @@ The proxy and implementation smart contracts are all deployed and verified on th
 The proxy smart contract is deployed on Sepolia at: [0x1f0D7180bdDe991d20fA8F2d208BB027d8911124](https://sepolia.etherscan.io/address/0x1f0D7180bdDe991d20fA8F2d208BB027d8911124)
 
 The implementation smart contract is deployed on Sepolia at: [0x28D4a9Fc706Eb095563adC8EcCF46FE334370F6B](https://sepolia.etherscan.io/address/0x28D4a9Fc706Eb095563adC8EcCF46FE334370F6B)
+
+A sample swap transaction carried out on Sepolia can be viewed at: [0x7b48968824658e49811a112d6f6cae4947b3cca260fa78aaf9d855982a42eb6c](https://sepolia.etherscan.io/tx/0x7b48968824658e49811a112d6f6cae4947b3cca260fa78aaf9d855982a42eb6c)
